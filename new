@@ -1,0 +1,36 @@
+# Materials Module 2
+
+## Elasticity
+* Plot of load vs. extension
+  * Can have linear elasticity
+* Slope of the line - Young's Modulus:
+$${Stress/Strain}$$
+* Stiffness
+  * Deflection increases with decreasing stiffness
+  > Less stiff material will deflect more
+  * To decrease deflection you can change material or geometry
+* Elasticity is non-permanent
+
+## Strength of Materials
+$$stress = F/A$$
+$$N/m^2$$ or Pa (pascals)
+### Extension vs Strain
+$$Strain = Extension / Unit Length Strain$$
+* As samples get deformed, the volume remains approximately constatnt
+* Poisson's ratio - As material is stretched, cross section gets smaller
+
+### Types of Stress
+* Tensile Stress - pulling stress, important in elasticity 
+* Shear - sidways stress, important in plasticity
+
+## Origins of Elasticity
+* Attractiveness 
+  - electrostatic
+  - replusion - atomic force
+  - bond distance
+* Atomic springs
+$$Modulus of Elasticity = stiff/length$$
+
+
+
+
