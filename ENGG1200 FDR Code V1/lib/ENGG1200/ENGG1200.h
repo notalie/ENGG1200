@@ -1,5 +1,5 @@
 #include <SPI.h>
-#include "../../libraries/RF24/RF24.h"
+#include "RF24.h"
 
 // This is here so you can see how the data is packaged
 #define grav_const_fact 0.00059875488

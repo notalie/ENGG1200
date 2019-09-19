@@ -1,4 +1,4 @@
-#include "../../libraries/ENGG1200/ENGG1200.h"
+#include "ENGG1200.h"
 /*
  * This file contains the actual code for the function prototypes
  * defined within ENGG1200.h; what this means is, when the Arduino IDE
